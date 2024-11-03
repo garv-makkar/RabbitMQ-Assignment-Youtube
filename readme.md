@@ -1,4 +1,4 @@
-Certainly! Here's the revised README text without code snippets:
+This is an assignment of course "Distributed Systems: Concepts & Design"
 
 ---
 
